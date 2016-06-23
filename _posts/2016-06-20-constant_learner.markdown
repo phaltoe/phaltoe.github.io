@@ -18,7 +18,7 @@ Right now, if someone asks me: why did you decide to learn software development,
 
 Yes, I genuinely believe that programmers are professional learners.  If you have a good time when you are reading a book, trying to build something you are not familiar with or studying what might the oddest thing,  programming is a career for you too.
 
-A lot of people will say that if you don't have a CS background you can't do it and blah blah blah... "Bullshitalka!".  Don't let people discourage you,  there are a lot of fantastic developers out there that don't have one either.  In fact, programming teaches us that our skills can't be measured by a piece of paper, as long as you can get the job done, you will have job opportunities.
+A lot of people will say that if you don't have a CS background you can't do it and blah blah blah...  Don't let people discourage you,  there are a lot of fantastic developers out there that don't have one either.  In fact, programming teaches us that our skills can't be measured by a piece of paper, as long as you can get the job done, you will have job opportunities.
 
 So far, it's been a very fun ride and I will keep you guys updated.
 
