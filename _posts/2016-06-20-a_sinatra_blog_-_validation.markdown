@@ -31,7 +31,7 @@ The tricky part is:  when you are validating i.e a signup form, you are sending 
 
 So here comes the question: how we are going to access the error instance methods without an instance from the object to call it on?  Simple.  Remember what I said above?
 
-_"Only when we are trying to Create/Save/Update an object into our database validation will be triggered."_
+***_"Only when we are trying to Create/Save/Update an object into our database validation will be triggered."_***
 
 So if we create a new instance of that object with `.new` it will not be saved in our database and we still can use it to call our `error.messages`. This lets us validate the form without losing the data.
 
