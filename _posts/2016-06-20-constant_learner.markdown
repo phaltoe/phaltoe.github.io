@@ -14,7 +14,7 @@ The only reason I didn't want to look too much into the future, was because if I
 
 Right now, if someone asks me: why did you decide to learn software development, I think I would be more capable of answering that.
 
-- Because I like to learn new things and as long as I have something new to learn I will be happy. 
+- Because I like to learn new things and as long as I have something new to learn I am happy. 
 
 Yes, I genuinely believe that programmers are professional learners.  If you have a good time when you are reading a book, trying to build something you are not familiar with or studying what might the oddest thing,  programming is a career for you too.
 
