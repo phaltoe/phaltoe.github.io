@@ -7,7 +7,7 @@ date:   2016-06-20 21:10:52 +0000
 
 Hi everyone,
 
-This is my last project with **Sinatra** before moving on to **Rails** land. It took me a while to feel confident writing Sinatra apps and I had to slow down and go deeper to understand how it really works.
+This is my last project with **Sinatra** before moving on to **Rails** land. It took me a while to feel confident writing Sinatra apps and I had to slow down and dive deeper to understand how it really works.
 
 During the process there was one thing that I would like to share with you that made it very interesting.
 
